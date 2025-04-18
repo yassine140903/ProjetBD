@@ -1,0 +1,1 @@
+Ce projet a été mis en place dans le but d’alimenter un entrepôt de données structuré pour l’analyse des transactions, en intégrant des données provenant de différentes sources. Le flux de contrôle se compose de six étapes principales, chacune ayant un rôle stratégique dans le traitement, la transformation et le chargement des données.
